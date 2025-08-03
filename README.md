@@ -1,12 +1,10 @@
-# React + Vite
+# Front page
+<img width="1863" height="745" alt="image" src="https://github.com/user-attachments/assets/a759e41f-92fd-493d-a18a-07449ea36ab3" />
+all popular anime will be shown first. Simple navbar and seach function.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Individule cards
+<img width="440" height="759" alt="image" src="https://github.com/user-attachments/assets/8c4807c0-9641-4ef0-9a5f-2be75ece45ff" />
+when hovering will display heart button to favorite and hover effect, favoriting anime's currently doesnt work yet
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+# Search function
+<img width="1831" height="751" alt="image" src="https://github.com/user-attachments/assets/e1bbc326-b3c2-4f5c-95ba-3c293ed612f8" />
